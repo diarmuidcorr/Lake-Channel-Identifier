@@ -1,7 +1,8 @@
 #This code calculates NDWI values for Landsat 8 data tiles with
 #starting point in a folder adjacent to PRODUCT folder, and prints a .tiff image
 #and a Lake Area Distribution Histogram to an output folder adjacent to the same
-#folers above. It is based on NDWI code from Mahsa Moussavi.
+#folers above. 
+#It is based on NDWI code from Mahsa Moussavi https://github.com/mmoussavi/Lake_Detection_Satellite_Imagery.
  
 
 #import required libraries
